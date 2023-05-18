@@ -1,0 +1,11 @@
+.container{
+    display: block;
+    width:35%;
+    height: 15em;
+    background-color: pink;
+    border:2px solid black;
+    border-radius: 11px;
+}
+.txt {
+    color: red
+}
